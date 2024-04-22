@@ -5,10 +5,11 @@ This Python script automates the analysis and monitoring of log files. It contin
 
 ## Prerequisites
 - Python 3.x installed on your system.
-''' sudo apt update '''
-''' sudo apt install python3 '''
-''' python3 --version '''
-''' pip install flask '''
+
+``` sudo apt update ```
+``` sudo apt install python3 ```
+``` python3 --version ```
+``` pip install flask ```
   
 - Access to a log file for monitoring and analysis.
 
@@ -17,13 +18,13 @@ This Python script automates the analysis and monitoring of log files. It contin
 
 ## Usage
 1. Clone the repository to your local machine:
-''' git clone https://github.com/SmitVgithub/Log-Analysis.git '''
+``` git clone https://github.com/SmitVgithub/Log-Analysis.git ```
 
 2. Run the script:
-''' python3 app.py '''
+``` python3 app.py ```
 
 3. Check the running application in below IP address and port number.
-''' http://127.0.0.1:5000 '''
+``` http://127.0.0.1:5000 ```
 
 4. The script will start monitoring the specified log file in real-time and perform basic analysis.
 
