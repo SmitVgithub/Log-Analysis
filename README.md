@@ -6,10 +6,18 @@ This Python script automates the analysis and monitoring of log files. It contin
 ## Prerequisites
 - Python 3.x installed on your system.
 
-``` sudo apt update ```
-``` sudo apt install python3 ```
-``` python3 --version ```
-``` pip install flask ```
+``` 
+sudo apt update
+```
+``` 
+sudo apt install python3
+```
+``` 
+python3 --version
+```
+``` 
+pip install flask
+```
   
 - Access to a log file for monitoring and analysis.
 
